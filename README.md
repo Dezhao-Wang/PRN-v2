@@ -1,8 +1,8 @@
 # PRN-v2
 
-<b><font size="4">Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop Filtering </font></b> [[PDF]](https://arxiv.org/abs/2001.05651")
+<b><font size="5">Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop Filtering </font></b> [[PDF]](https://arxiv.org/abs/2001.05651)
 
-[Dezhao Wang]("https://dezhao-wang.github.io/")     [Sifeng Xia]("https://pigundermoon.github.io/")    [Wenhan Yang]("https://flyywh.github.io/")    [Jiaying Liu]("http://39.96.165.147/people/liujiaying.html")
+[Dezhao Wang](https://dezhao-wang.github.io/)     [Sifeng Xia](https://pigundermoon.github.io/)    [Wenhan Yang](https://flyywh.github.io/)    [Jiaying Liu](http://39.96.165.147/people/liujiaying.html)
 
 
 
@@ -16,32 +16,34 @@ In this paper, we aim to address two critical issues in deep-learning based in-l
 
 ##### Progressive Rethinking Convolutional Neural Network
 
-![1579579970594](img/PR-CNN.png)
+![1579579970594](D:/lab/publication/TIP19/img/PR-CNN.png)
 
 
 
 ##### Progressive Rethinking Recurrent Neural Network
 
-![1579580013146](img/PR-RNN.png)
+![1579580013146](D:/lab/publication/TIP19/img/PR-RNN.png)
 
 
 
 ### Results
 
-![1579580053597](img/Result.png)
+![1579580053597](D:/lab/publication/TIP19/img/Result.png)
 
 
 
 ### Citation
 
-@misc{wang2020combining,
-    title={Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop Filtering},
-    author={Dezhao Wang and Sifeng Xia and Wenhan Yang and Jiaying Liu},
-    year={2020},
-    eprint={2001.05651},
-    archivePrefix={arXiv},
-    primaryClass={eess.IV}
+@misc{wang2020combining,  
+    title={Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop Filtering},  
+    author={Dezhao Wang and Sifeng Xia and Wenhan Yang and Jiaying Liu},  
+    year={2020},  
+    eprint={2001.05651},  
+    archivePrefix={arXiv},  
+    primaryClass={eess.IV}  
 }
+
+
 
 
 
