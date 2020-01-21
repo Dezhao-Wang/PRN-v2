@@ -1,8 +1,6 @@
-# PRN-v2
-
 <b><font size="5">Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop Filtering </font></b> [[PDF]](https://arxiv.org/abs/2001.05651)
 
-[Dezhao Wang](https://dezhao-wang.github.io/)     [Sifeng Xia](https://pigundermoon.github.io/)    [Wenhan Yang](https://flyywh.github.io/)    [Jiaying Liu](http://39.96.165.147/people/liujiaying.html)
+[Dezhao Wang](https://dezhao-wang.github.io/), [Sifeng Xia](https://pigundermoon.github.io/), [Wenhan Yang](https://flyywh.github.io/), [Jiaying Liu](http://39.96.165.147/people/liujiaying.html)
 
 
 
@@ -18,11 +16,15 @@ In this paper, we aim to address two critical issues in deep-learning based in-l
 
 ![1579579970594](./img/PR-CNN.png)
 
+*Fig 1. (a) The architecture of the Progressive Rethinking Convolutional Neural Network. The network takes the unfiltered frame as the input and it generates the filtered output frame. The feature maps extracted from the side-info by SIFE are added to data flow during the processing. (b) The structure of Progressive Rethinking Block. (c) The architecture of Side Information Feature Extractor.*
+
 
 
 ##### Progressive Rethinking Recurrent Neural Network
 
 ![1579580013146](./img/PR-RNN.png)
+
+*Fig 2. (a) The architecture of the Progressive Rethinking Recurrent Neural Network under LD configuration. (b) The structure of Collaborative Learning Module.*
 
 
 
@@ -44,9 +46,3 @@ In this paper, we aim to address two critical issues in deep-learning based in-l
 }
 
 
-
-
-
-### Usage
-
-To be continued ...
