@@ -16,26 +16,26 @@ In this paper, we aim to address two critical issues in deep-learning based in-l
 
 ##### Progressive Rethinking Convolutional Neural Network
 
-![1579579970594](.\img\PR-CNN.png)
+![1579579970594](img/PR-CNN.png)
 
 
 
 ##### Progressive Rethinking Recurrent Neural Network
 
-![1579580013146](.\img\PR-RNN.png)
+![1579580013146](img/PR-RNN.png)
 
 
 
 ### Results
 
-![1579580053597](.\img\Result.png)
+![1579580053597](img/Result.png)
 
 
 
 ### Citation
 
 @misc{wang2020combining,
-    title={Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop 	Filtering},
+    title={Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop Filtering},
     author={Dezhao Wang and Sifeng Xia and Wenhan Yang and Jiaying Liu},
     year={2020},
     eprint={2001.05651},
