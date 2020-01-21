@@ -16,19 +16,19 @@ In this paper, we aim to address two critical issues in deep-learning based in-l
 
 ##### Progressive Rethinking Convolutional Neural Network
 
-![1579579970594](D:/lab/publication/TIP19/img/PR-CNN.png)
+![1579579970594](./img/PR-CNN.png)
 
 
 
 ##### Progressive Rethinking Recurrent Neural Network
 
-![1579580013146](D:/lab/publication/TIP19/img/PR-RNN.png)
+![1579580013146](./img/PR-RNN.png)
 
 
 
 ### Results
 
-![1579580053597](D:/lab/publication/TIP19/img/Result.png)
+![1579580053597](./img/Result.png)
 
 
 
