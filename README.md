@@ -1,8 +1,8 @@
 # PRN-v2
 
-<b><font size="4">Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop Filtering </font></b><a herf="https://arxiv.org/abs/2001.05651">[PDF]</a>  
+<b><font size="4">Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop Filtering </font></b> [[PDF]](https://arxiv.org/abs/2001.05651")
 
-<a herf="https://dezhao-wang.github.io/">Dezhao Wang</a>    <a herf="https://pigundermoon.github.io/"> Sifeng Xia</a>    <a herf="https://flyywh.github.io/">Wenhan Yang</a>    <a herf="http://39.96.165.147/people/liujiaying.html"> JiayingLiu</a>
+[Dezhao Wang]("https://dezhao-wang.github.io/")     [Sifeng Xia]("https://pigundermoon.github.io/")    [Wenhan Yang]("https://flyywh.github.io/")    [Jiaying Liu]("http://39.96.165.147/people/liujiaying.html")
 
 
 
@@ -16,19 +16,19 @@ In this paper, we aim to address two critical issues in deep-learning based in-l
 
 ##### Progressive Rethinking Convolutional Neural Network
 
-![1579579970594](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1579579970594.png)
+![1579579970594](.\img\PR-CNN.png)
 
 
 
 ##### Progressive Rethinking Recurrent Neural Network
 
-![1579580013146](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1579580013146.png)
+![1579580013146](.\img\PR-RNN.png)
 
 
 
 ### Results
 
-![1579580053597](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\1579580053597.png)
+![1579580053597](.\img\Result.png)
 
 
 
