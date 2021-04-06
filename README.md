@@ -46,13 +46,5 @@ title={Combining Progressive Rethinking and Collaborative Learning: A Deep Frame
 
 year={2021},
 
-volume={},
-
-number={},
-
-pages={1-1},
-
 doi={10.1109/TIP.2021.3068638}
 }
-
-
