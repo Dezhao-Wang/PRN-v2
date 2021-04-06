@@ -37,14 +37,14 @@ In this paper, we aim to address two critical issues in deep-learning based in-l
 ### Citation
 
 @misc{wang2020combining, 
-  author={D. {Wang} and S. {Xia} and W. {Yang} and J. {Liu}},
-  journal={IEEE Transactions on Image Processing}, 
-  title={Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop Filtering}, 
-  year={2021},
-  volume={},
-  number={},
-  pages={1-1},
-  doi={10.1109/TIP.2021.3068638}
+author={D. {Wang} and S. {Xia} and W. {Yang} and J. {Liu}},
+journal={IEEE Transactions on Image Processing}, 
+title={Combining Progressive Rethinking and Collaborative Learning: A Deep Framework for In-Loop Filtering}, 
+year={2021},
+volume={},
+number={},
+pages={1-1},
+doi={10.1109/TIP.2021.3068638}
 }
 
 
